@@ -3,3 +3,8 @@
 
 ## Tech stack
  
+Programming Languages: Python 3.10
+
+Tools used: PowerBI
+
+Libraries used: NumPy, pandas, dataprep, matplotlib, scipy, seabron, TensorFlow, sklearn.
